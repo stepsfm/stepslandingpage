@@ -1,0 +1,12 @@
+auto: true
+app_name: steps
+description:      Describe your website here.
+mailchimp: mailchimpURL...
+google-analytics: UA-XXXXXXXX-1
+domain: 
+reading_time:     true
+words_per_minute: 200
+owner:
+  twitter:        jonas28
+  github:         jonas28
+

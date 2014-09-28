@@ -1,0 +1,38 @@
+- name: elbdudler
+  description: Socialmedia
+
+- name: nerdlichter
+  description: Web- und App-Entwicklung
+
+- name: Jan Oelze
+  description: Rapid Prototyping
+
+- name: HasselbringNeuman
+  description: Business Design
+
+- name: RSA Media
+  description: Influencer Relations
+
+- name: Ralf Klassen
+  description: Bewegtbild Konzepte
+
+- name: Bitprojects
+  description: Bewegtbild Produktion
+
+- name: Divimove
+  description: YouTube Strategie
+
+- name: Dark Horse
+  description: Design Thinking
+
+- name: Martin Wolf
+  description: Frontent-Entwicklung
+
+- name: Marcel Wichmann
+  description: Design
+
+- name: aspector
+  description: SEO
+
+- name: Cream Colored Ponies
+  description: Digitalstrategie

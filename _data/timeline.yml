@@ -1,0 +1,53 @@
+- event: Gründung
+  year: 2009
+  month: Dezember
+  story: Jonas gründet zusammen mit Julian die Agentur elbdudler.
+  position: 
+
+- event: Wachstum
+  year: 2010
+  month: Mai
+  story: Eva wird erste Festangestellte von elbdudler.
+  position: class="timeline-inverted"
+
+- event: Shitstorm
+  year: 2011
+  month: Juni
+  story: Jonas wird Dozent an der Goodschool und entwickelt das Workshopformat "Shitstorm-Simulator".
+  position: 
+
+- event: neue Ideen
+  year: 2012
+  month: Januar
+  story: Jonas und Julian gründen den Beteiligungsgesellschaft elbmudder, um Agenturmitarbeiter bei der Entwicklung eigener Ideen zu unterstützen.
+  position: class="timeline-inverted"
+
+- event: Director of Happiness
+  year: 2012
+  month: Januar
+  story: Eva wird Geschäftsführerin von elbdudler.
+  position: 
+
+- event: Ausgründung und Umzug
+  year: 2013
+  month: April
+  story: Jonas gründet zusammen mit Eva elbdudler strategie in Berlin.
+  position: class="timeline-inverted"
+
+- event: next steps
+  year: 2013
+  month: April
+  story: Eva und Jonas bauen das Starup steps auf, ein Online-Shop für ToDo-Listen.
+  position: 
+
+- event: Growth Hacking
+  year: 2014
+  month: Mai
+  story: Jonas wird Dozent an der Jung von Matt Academy und unterrichtet Viral Design und Growth Hacking.
+  position: class="timeline-inverted"
+
+- event: Das Buch
+  year: 2014
+  month: September
+  story: Wir haben gerade angefangen bei leanpub ein <a href="https://leanpub.com/digitalkonzept" target="_blank">Buch für Digitalkonzepter</a> zu schreiben.
+  position: 

@@ -1,0 +1,74 @@
+<html>
+  
+  <head>
+    <meta charset="utf-8">
+    <title>{{ site.app_name }}</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="">
+    <meta name="author" content="">
+    <link href="http://netdna.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css"
+    rel="stylesheet" type="text/css">
+    <link href="/assets/css/landing.css" rel="stylesheet" type="text/css">
+  </head>
+  
+  <body class="">
+    <div class="navbar navbar-default navbar-fixed-top">
+      
+      <div class="container">
+        <div class="navbar-header page-scroll">
+          <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+            <span class="sr-only">Toggle navigation</span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+          <div class="logo">
+            <a class="navbar-brand" href="#"></a>
+          </div>
+        </div>
+        <div class="collapse navbar-collapse navbar-ex1-collapse">
+          <ul class="nav navbar-nav navbar-right">
+            <li>
+              <a href="/">Home</a>
+            </li>
+            <li>
+              <a href="/index.html#team">Team</a>
+            </li>
+            <li>
+              <a href="/index.html#benefits">Benefits</a>
+            </li>
+            <li>
+              <a href="/index.html#blog">Blog</a>
+            </li>
+            <li>
+              <a href="/index.html#signup">Signup</a>
+            </li>
+            <li>
+              <a href="/index.html#workshops">Workshops</a>
+            </li>
+            <li>
+              <a href="/index.html#clients">Kunden</a>
+            </li>           
+            <li>
+              <a href="/index.html#partner">Partner</a>
+            </li>
+            <li>
+              <a href="/index.html#contact">Kontakt</a>
+            </li>
+          </ul>
+        </div>
+      </div>
+    </div>
+      {{ content }}
+  <div class="container">
+    <hr/>
+    {% include footer.html %}
+  </div>
+  
+
+  <!-- Placed at the end of the document so the pages load faster -->
+    <script type="text/javascript" src="http://cdnjs.cloudflare.com/ajax/libs/jquery/2.0.3/jquery.min.js"></script>
+    <script type="text/javascript" src="http://netdna.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js"></script>
+    <script src="//cdn.optimizely.com/js/1995810049.js"></script>
+  {% include analytics.js.html %}
+  </body>
